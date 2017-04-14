@@ -1,5 +1,7 @@
 # React Router v4 <Miss> Server Side Rendering invalid checksum
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/choujimmy/react-router-v4-ssr-miss-checksum-fail.svg)](https://greenkeeper.io/)
+
 When using `<Miss>` with server side rendering, missed routes result in invalid
 checksum warning from React. See [ReactTraining/react-router#3877](https://github.com/ReactTraining/react-router/issues/3877).
 
